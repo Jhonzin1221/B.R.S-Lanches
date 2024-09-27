@@ -1,4 +1,0 @@
-background: rgb(93,0,0);
-background: linear-gradient(45deg, rgba(93,0,0,1) 15%, rgba(215,0,0,1) 52%, rgba(83,0,0,1) 87%);
-background-size: cover; /* Garantir que o gradiente preencha toda a tela */
-min-height: 100vh;      /* Para assegurar que o fundo cubra 100% da altura da viewport */
